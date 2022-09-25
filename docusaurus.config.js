@@ -10,8 +10,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CatalystOS Blog',
-  url: 'https://catalystos.org/blog',
-  baseUrl: '/',
+  url: 'https://catalystos.org/',
+  baseUrl: '/blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   organizationName: 'CatalystOS Project',
