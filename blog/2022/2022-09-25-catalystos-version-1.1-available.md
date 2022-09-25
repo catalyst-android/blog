@@ -2,7 +2,7 @@
 slug: 2022-09-25-catalystos-version-1.1-available
 title: "CatalystOS version 1.1 available"
 authors: LordShenron
-date: 2022-01-02
+date: 2022-09-25
 tags: [catalystos, version1.1, android13]
 ---
 
