@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[964],{8866:a=>{a.exports=JSON.parse('[{"label":"catalystos","permalink":"/tags/catalystos","count":1},{"label":"version1.1","permalink":"/tags/version-1-1","count":1},{"label":"android13","permalink":"/tags/android-13","count":1}]')}}]);
