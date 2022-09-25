@@ -46,7 +46,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       googleAdsense: {
-        dataAdClient: 'ca-pub-7639560510014441',
+        dataAdClient: 'ca-pub-1277633863266032',
       },
       navbar: {
         title: 'CatalystOS',
