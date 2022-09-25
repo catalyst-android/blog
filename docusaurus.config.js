@@ -9,13 +9,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'BlissRoms Blog',
-  url: 'https://blog.blissroms.org',
+  title: 'CatalystOS Blog',
+  url: 'https://catalystos.org/blog',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  organizationName: 'BlissRoms',
-  projectName: 'blog.blissroms.org',
+  organizationName: 'CatalystOS Project',
+  projectName: 'blog',
 
   presets: [
     [
@@ -49,7 +49,7 @@ const config = {
         dataAdClient: 'ca-pub-7639560510014441',
       },
       navbar: {
-        title: 'BlissRoms Blog',
+        title: 'CatalystOS',
       },
       footer: {
         style: 'dark',
@@ -59,15 +59,11 @@ const config = {
             items: [
               {
                 label: 'Website',
-                href: 'https://blissroms.org/',
+                href: 'https://catalystos.org/',
               },
               {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/blissroms',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/Bliss_ROMs',
+                label: 'Telegram',
+                href: 'https://telegram.me/catalyst_android',
               },
             ],
           },
@@ -75,13 +71,13 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/BlissRoms/platform_manifest',
+                label: 'Catalyst OS GitHub',
+                href: 'https://github.com/catalyst-android',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BlissLabs, All rights reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CatalystOS Project, All rights reserved.`,
       },
       prism: {
         theme: lightCodeTheme,
