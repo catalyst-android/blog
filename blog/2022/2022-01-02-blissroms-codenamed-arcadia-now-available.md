@@ -1,7 +1,7 @@
 ---
 slug: 2022-01-02-blissroms-codenamed-arcadia-now-available
 title: "BlissRoms codenamed Arcadia now available"
-authors: jackeagle
+authors: LordShenron
 date: 2022-01-02
 tags: [arcadia, bliss15, android12]
 ---
