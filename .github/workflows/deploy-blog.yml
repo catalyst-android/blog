@@ -22,8 +22,8 @@ jobs:
         with:
           node-version: "16.x"
 
-      # Install and build BlissRoms Blog
-      - name: Build BlissRoms Blog
+      # Install and build
+      - name: Build Catalyst Blog
         run: |
           yarn install 
           yarn run build
