@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[676],{8216:a=>{a.exports=JSON.parse('{"label":"android13","permalink":"/blog/tags/android-13","allTagsPath":"/blog/tags","count":4}')}}]);

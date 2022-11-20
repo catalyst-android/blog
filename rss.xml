@@ -4,10 +4,21 @@
         <title>CatalystOS Blog Blog</title>
         <link>https://catalystos.org/blog/</link>
         <description>CatalystOS Blog Blog</description>
-        <lastBuildDate>Sun, 30 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[CatalystOS november update is now available! ]]></title>
+            <link>https://catalystos.org/blog/2022-11-20-catalystos-november-update</link>
+            <guid>2022-11-20-catalystos-november-update</guid>
+            <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hey there!, the winters are almost here and and we have got our jackets and hoodies out. A cup of hot chocolate feels so good in this season, but we all know what else feel awesome and that is the new CatalystOS update! We know we know, we are a little late to this update but we were busy with personal and professional work.]]></description>
+            <content:encoded><![CDATA[<p>Hey there!, the winters are almost here and and we have got our jackets and hoodies out. A cup of hot chocolate feels so good in this season, but we all know what else feel awesome and that is the new CatalystOS update! We know we know, we are a little late to this update but we were busy with personal and professional work.  </p><p>So, without further a-do, Let's get into the changelogs!</p><div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">- November security patch.  </span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">- Some improvements to the High brightness mode. </span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">- Various upstreams from ArrowOS.</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div><p>and yeah, that's all. That is everything we could do for this update and see you again with the next update xD.</p><p>If you love our work you can support us by buying us a cup of good old hot chocolate at <a href="https://www.paypal.com/paypalme/umang96" target="_blank" rel="noopener noreferrer">Paypal</a> or <a href="https://www.buymeacoffee.com/lBUDKgM" target="_blank" rel="noopener noreferrer">Buy Me a Coffee</a>. With this we will see you next time! Have a nice day and keep flashing!</p><p>#CatalystROM</p>]]></content:encoded>
+            <category>catalystos</category>
+            <category>version1.1</category>
+            <category>android13</category>
+        </item>
         <item>
             <title><![CDATA[CatalystOS new update is out! ]]></title>
             <link>https://catalystos.org/blog/2022-10-30-catalystos-october-update</link>
